@@ -1,3 +1,6 @@
+/*Program to inter-convert temperatures between the two scales of Celsius
+**and Fahreneheit and display the result. The inpur is taken from the user*/
+
 #include <iostream>
 
 using namespace std;
